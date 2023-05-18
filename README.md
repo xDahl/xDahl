@@ -1,3 +1,3 @@
 - 👋 Hello, my name is @xDahl
 - 👀 And I want to make free software for fun and to learn.
-- 🌱 I really only know the C programming language (I really should learn Rust...).
+- 🌱 I really only know the C programming language (currently learning Lua and Odin).
